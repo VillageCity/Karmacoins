@@ -1,0 +1,2 @@
+# Karmacoins
+Supportive Economy Currency
